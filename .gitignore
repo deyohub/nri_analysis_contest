@@ -1,8 +1,14 @@
 .DS_Store
 
-200_input/
-700_notebook/else/
-700_notebook/.ipynb_checkpoints/
+/200_input/*
+/700_notebook/else/*
 
 *.csv
 *.pkl
+
+!train.csv
+!kyaku.csv
+!uriage.csv
+!food_uriage.csv
+!tenki.csv
+!test.csv
