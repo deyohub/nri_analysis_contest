@@ -5,6 +5,7 @@
 
 *.csv
 *.pkl
+*.log
 
 !train.csv
 !kyaku.csv
