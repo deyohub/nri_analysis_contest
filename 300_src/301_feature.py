@@ -34,7 +34,21 @@ def main():
             df_ya, df_yb, df_yc, df_yd, df_ye, \
             df_za, df_zb, df_zc, df_zd, df_ze = get_train()
 
-        post_train(df_xa, 'train_xa')
+        post_train(df_xa, 'train_xa.csv')
+        post_train(df_xb, 'train_xb.csv')
+        post_train(df_xc, 'train_xc.csv')
+        post_train(df_xd, 'train_xd.csv')
+        post_train(df_xe, 'train_xe.csv')
+        post_train(df_ya, 'train_ya.csv')
+        post_train(df_yb, 'train_yb.csv')
+        post_train(df_yc, 'train_yc.csv')
+        post_train(df_yd, 'train_yd.csv')
+        post_train(df_ye, 'train_ye.csv')
+        post_train(df_za, 'train_za.csv')
+        post_train(df_zb, 'train_zb.csv')
+        post_train(df_zc, 'train_zc.csv')
+        post_train(df_zd, 'train_zd.csv')
+        post_train(df_ze, 'train_ze.csv')
 
     except Exception:
         # エラースタックを出力
@@ -64,9 +78,7 @@ def get_train():
 
     Returns
     ----------
-    df1 : DataFrame
-    df2 : DataFrame
-    df3 : DataFrame
+    df : DataFrame
 
     '''
     try:
@@ -107,57 +119,68 @@ def get_train():
         col_name_mise = df_train.columns[2]
         col_name_item = df_train.columns[3]
         df_train_xa = df_train[(df_train[col_name_mise] == 'X') & (
-            df_train[col_name_item] == 'A')].reset_index()
+            df_train[col_name_item] == 'A')].reset_index(drop=True)
         df_train_xb = df_train[(df_train[col_name_mise] == 'X') & (
-            df_train[col_name_item] == 'B')].reset_index()
+            df_train[col_name_item] == 'B')].reset_index(drop=True)
         df_train_xc = df_train[(df_train[col_name_mise] == 'X') & (
-            df_train[col_name_item] == 'C')].reset_index()
+            df_train[col_name_item] == 'C')].reset_index(drop=True)
         df_train_xd = df_train[(df_train[col_name_mise] == 'X') & (
-            df_train[col_name_item] == 'D')].reset_index()
+            df_train[col_name_item] == 'D')].reset_index(drop=True)
         df_train_xe = df_train[(df_train[col_name_mise] == 'X') & (
-            df_train[col_name_item] == 'E')].reset_index()
+            df_train[col_name_item] == 'E')].reset_index(drop=True)
         df_train_ya = df_train[(df_train[col_name_mise] == 'Y') & (
-            df_train[col_name_item] == 'A')].reset_index()
+            df_train[col_name_item] == 'A')].reset_index(drop=True)
         df_train_yb = df_train[(df_train[col_name_mise] == 'Y') & (
-            df_train[col_name_item] == 'B')].reset_index()
+            df_train[col_name_item] == 'B')].reset_index(drop=True)
         df_train_yc = df_train[(df_train[col_name_mise] == 'Y') & (
-            df_train[col_name_item] == 'C')].reset_index()
+            df_train[col_name_item] == 'C')].reset_index(drop=True)
         df_train_yd = df_train[(df_train[col_name_mise] == 'Y') & (
-            df_train[col_name_item] == 'D')].reset_index()
+            df_train[col_name_item] == 'D')].reset_index(drop=True)
         df_train_ye = df_train[(df_train[col_name_mise] == 'Y') & (
-            df_train[col_name_item] == 'E')].reset_index()
+            df_train[col_name_item] == 'E')].reset_index(drop=True)
         df_train_za = df_train[(df_train[col_name_mise] == 'Z') & (
-            df_train[col_name_item] == 'A')].reset_index()
+            df_train[col_name_item] == 'A')].reset_index(drop=True)
         df_train_zb = df_train[(df_train[col_name_mise] == 'Z') & (
-            df_train[col_name_item] == 'B')].reset_index()
+            df_train[col_name_item] == 'B')].reset_index(drop=True)
         df_train_zc = df_train[(df_train[col_name_mise] == 'Z') & (
-            df_train[col_name_item] == 'C')].reset_index()
+            df_train[col_name_item] == 'C')].reset_index(drop=True)
         df_train_zd = df_train[(df_train[col_name_mise] == 'Z') & (
-            df_train[col_name_item] == 'D')].reset_index()
+            df_train[col_name_item] == 'D')].reset_index(drop=True)
         df_train_ze = df_train[(df_train[col_name_mise] == 'Z') & (
-            df_train[col_name_item] == 'E')].reset_index()
-
-        # for i in df_train[col_name_mise].unique():
-        #     for j in df_train[col_name_item].unique():
-        #         exec(
-        #             f"df_train_{i}{j} = df_train[(df_train['{col_name_mise}'] == '{i}') & (df_train['{col_name_item}'] == '{j}')].reset_index()")
-        #         # df[i][j] = df_train[(df_train[col_name_mise] == mise) & (
-        #         #     df_train[col_name_item] == item)].reset_index()
-        #         # print(df[i][j])
+            df_train[col_name_item] == 'E')].reset_index(drop=True)
 
         return df_train_xa, df_train_xb, df_train_xc, df_train_xd, df_train_xe, \
             df_train_ya, df_train_yb, df_train_yc, df_train_yd, df_train_ye, \
             df_train_za, df_train_zb, df_train_zc, df_train_zd, df_train_ze
+
     except:
         g_logger.error('get_csv で例外が発生しました')
         raise
 
 
 def post_train(df, df_name):
-    file_dir = '/Users/hidebase/NRI/03_自己研鑽/03_データ分析コンテスト/nri_analysis_contest/500_output/'
-    file_name = df_name
-    path = file_dir + file_name + '.csv'
-    df.to_csv(path)
+    '''
+    Parameters
+    ----------
+    df : DataFrame
+    df_name : str
+
+    Returns
+    ----------
+
+    '''
+    try:
+        g_logger.info('********************************************')
+        g_logger.info('[post_train]')
+        g_logger.info('********************************************')
+
+        file_dir = '/Users/hidebase/NRI/03_自己研鑽/03_データ分析コンテスト/nri_analysis_contest/500_output/'
+        path = file_dir + df_name
+        df.to_csv(path)
+
+    except:
+        g_logger.error('post_train で例外が発生しました')
+        raise
 
 
 # ------------------------------------------------------------

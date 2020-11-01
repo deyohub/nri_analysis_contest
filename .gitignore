@@ -14,3 +14,7 @@
 !tenki.csv
 !test.csv
 !additional1.csv
+
+300_src/log/*.log
+700_notebook/POS_example.ipynb
+300_src/log/__hide-2.local_jobid_undefined_py.log

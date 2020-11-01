@@ -3973,3 +3973,1200 @@ ValueError: not enough values to unpack (expected 15, got 5)
 2020-10-31 18:47:22 INFO HOSTNAME: hide-2.local
 2020-10-31 18:47:22 INFO ELAPSED: 0.15[sec]
 2020-10-31 18:47:22 INFO ============   PYTHON   LOG   ============
+2020-10-31 18:51:52 INFO ============   PYTHON   LOG   ============
+2020-10-31 18:51:52 INFO JOB: 
+2020-10-31 18:51:52 INFO STEP: 
+2020-10-31 18:51:52 INFO PGM: 301_feature.py
+2020-10-31 18:51:52 INFO PID: 11694
+2020-10-31 18:51:52 INFO PARENT_PID: jobid_undefined
+2020-10-31 18:51:52 INFO HOSTNAME: hide-2.local
+2020-10-31 18:51:52 INFO ------------------------------------------
+2020-10-31 18:51:52 INFO 
+2020-10-31 18:51:52 INFO ********************************************
+2020-10-31 18:51:52 INFO [get_csv]
+2020-10-31 18:51:52 INFO ********************************************
+2020-10-31 18:51:52 INFO --[file_util：load_csv]--------------------
+2020-10-31 18:51:52 INFO PATH  : /Users/hidebase/NRI/03_自己研鑽/03_データ分析コンテスト/nri_analysis_contest/200_input/train.csv
+2020-10-31 18:51:52 INFO SHAPE : (7989, 4)
+2020-10-31 18:51:52 INFO TIME  : 0.02[sec]
+2020-10-31 18:51:52 INFO ------------------------------------
+2020-10-31 18:51:52 INFO 
+2020-10-31 18:51:52 INFO --[file_util：load_csv]--------------------
+2020-10-31 18:51:52 INFO PATH  : /Users/hidebase/NRI/03_自己研鑽/03_データ分析コンテスト/nri_analysis_contest/200_input/kyaku.csv
+2020-10-31 18:51:52 INFO SHAPE : (1692, 3)
+2020-10-31 18:51:52 INFO TIME  : 0.00[sec]
+2020-10-31 18:51:52 INFO ------------------------------------
+2020-10-31 18:51:52 INFO 
+2020-10-31 18:51:52 INFO --[file_util：load_csv]--------------------
+2020-10-31 18:51:52 INFO PATH  : /Users/hidebase/NRI/03_自己研鑽/03_データ分析コンテスト/nri_analysis_contest/200_input/uriage.csv
+2020-10-31 18:51:52 INFO SHAPE : (1692, 3)
+2020-10-31 18:51:52 INFO TIME  : 0.01[sec]
+2020-10-31 18:51:52 INFO ------------------------------------
+2020-10-31 18:51:52 INFO 
+2020-10-31 18:51:52 INFO --[file_util：load_csv]--------------------
+2020-10-31 18:51:52 INFO PATH  : /Users/hidebase/NRI/03_自己研鑽/03_データ分析コンテスト/nri_analysis_contest/200_input/food_uriage.csv
+2020-10-31 18:51:52 INFO SHAPE : (1692, 3)
+2020-10-31 18:51:52 INFO TIME  : 0.00[sec]
+2020-10-31 18:51:52 INFO ------------------------------------
+2020-10-31 18:51:52 INFO 
+2020-10-31 18:51:52 INFO ========================================
+2020-10-31 18:51:52 INFO 正常終了 ENDED CODE=0
+2020-10-31 18:51:52 INFO 
+2020-10-31 18:51:52 INFO ------------------------------------------
+2020-10-31 18:51:52 INFO JOB: 
+2020-10-31 18:51:52 INFO STEP: 
+2020-10-31 18:51:52 INFO PGM: 301_feature.py
+2020-10-31 18:51:52 INFO PID: 11694
+2020-10-31 18:51:52 INFO PARENT_PID: jobid_undefined
+2020-10-31 18:51:52 INFO HOSTNAME: hide-2.local
+2020-10-31 18:51:52 INFO ELAPSED: 0.14[sec]
+2020-10-31 18:51:52 INFO ============   PYTHON   LOG   ============
+2020-10-31 18:54:15 INFO ============   PYTHON   LOG   ============
+2020-10-31 18:54:15 INFO JOB: 
+2020-10-31 18:54:15 INFO STEP: 
+2020-10-31 18:54:15 INFO PGM: 301_feature.py
+2020-10-31 18:54:15 INFO PID: 11758
+2020-10-31 18:54:15 INFO PARENT_PID: jobid_undefined
+2020-10-31 18:54:15 INFO HOSTNAME: hide-2.local
+2020-10-31 18:54:15 INFO ------------------------------------------
+2020-10-31 18:54:15 INFO 
+2020-10-31 18:54:15 INFO ********************************************
+2020-10-31 18:54:15 INFO [get_csv]
+2020-10-31 18:54:15 INFO ********************************************
+2020-10-31 18:54:15 INFO --[file_util：load_csv]--------------------
+2020-10-31 18:54:15 INFO PATH  : /Users/hidebase/NRI/03_自己研鑽/03_データ分析コンテスト/nri_analysis_contest/200_input/train.csv
+2020-10-31 18:54:15 INFO SHAPE : (7989, 4)
+2020-10-31 18:54:15 INFO TIME  : 0.02[sec]
+2020-10-31 18:54:15 INFO ------------------------------------
+2020-10-31 18:54:15 INFO 
+2020-10-31 18:54:15 INFO --[file_util：load_csv]--------------------
+2020-10-31 18:54:15 INFO PATH  : /Users/hidebase/NRI/03_自己研鑽/03_データ分析コンテスト/nri_analysis_contest/200_input/kyaku.csv
+2020-10-31 18:54:15 INFO SHAPE : (1692, 3)
+2020-10-31 18:54:15 INFO TIME  : 0.00[sec]
+2020-10-31 18:54:15 INFO ------------------------------------
+2020-10-31 18:54:15 INFO 
+2020-10-31 18:54:15 INFO --[file_util：load_csv]--------------------
+2020-10-31 18:54:15 INFO PATH  : /Users/hidebase/NRI/03_自己研鑽/03_データ分析コンテスト/nri_analysis_contest/200_input/uriage.csv
+2020-10-31 18:54:15 INFO SHAPE : (1692, 3)
+2020-10-31 18:54:15 INFO TIME  : 0.01[sec]
+2020-10-31 18:54:15 INFO ------------------------------------
+2020-10-31 18:54:15 INFO 
+2020-10-31 18:54:15 INFO --[file_util：load_csv]--------------------
+2020-10-31 18:54:15 INFO PATH  : /Users/hidebase/NRI/03_自己研鑽/03_データ分析コンテスト/nri_analysis_contest/200_input/food_uriage.csv
+2020-10-31 18:54:15 INFO SHAPE : (1692, 3)
+2020-10-31 18:54:15 INFO TIME  : 0.00[sec]
+2020-10-31 18:54:15 INFO ------------------------------------
+2020-10-31 18:54:15 INFO 
+2020-10-31 18:54:15 INFO ========================================
+2020-10-31 18:54:15 INFO 正常終了 ENDED CODE=0
+2020-10-31 18:54:15 INFO 
+2020-10-31 18:54:15 INFO ------------------------------------------
+2020-10-31 18:54:15 INFO JOB: 
+2020-10-31 18:54:15 INFO STEP: 
+2020-10-31 18:54:15 INFO PGM: 301_feature.py
+2020-10-31 18:54:15 INFO PID: 11758
+2020-10-31 18:54:15 INFO PARENT_PID: jobid_undefined
+2020-10-31 18:54:15 INFO HOSTNAME: hide-2.local
+2020-10-31 18:54:15 INFO ELAPSED: 0.15[sec]
+2020-10-31 18:54:15 INFO ============   PYTHON   LOG   ============
+2020-10-31 18:55:10 INFO ============   PYTHON   LOG   ============
+2020-10-31 18:55:10 INFO JOB: 
+2020-10-31 18:55:10 INFO STEP: 
+2020-10-31 18:55:10 INFO PGM: 301_feature.py
+2020-10-31 18:55:10 INFO PID: 11791
+2020-10-31 18:55:10 INFO PARENT_PID: jobid_undefined
+2020-10-31 18:55:10 INFO HOSTNAME: hide-2.local
+2020-10-31 18:55:10 INFO ------------------------------------------
+2020-10-31 18:55:10 INFO 
+2020-10-31 18:55:10 INFO ********************************************
+2020-10-31 18:55:10 INFO [get_csv]
+2020-10-31 18:55:10 INFO ********************************************
+2020-10-31 18:55:10 INFO --[file_util：load_csv]--------------------
+2020-10-31 18:55:10 INFO PATH  : /Users/hidebase/NRI/03_自己研鑽/03_データ分析コンテスト/nri_analysis_contest/200_input/train.csv
+2020-10-31 18:55:10 INFO SHAPE : (7989, 4)
+2020-10-31 18:55:10 INFO TIME  : 0.01[sec]
+2020-10-31 18:55:10 INFO ------------------------------------
+2020-10-31 18:55:10 INFO 
+2020-10-31 18:55:10 INFO --[file_util：load_csv]--------------------
+2020-10-31 18:55:10 INFO PATH  : /Users/hidebase/NRI/03_自己研鑽/03_データ分析コンテスト/nri_analysis_contest/200_input/kyaku.csv
+2020-10-31 18:55:10 INFO SHAPE : (1692, 3)
+2020-10-31 18:55:10 INFO TIME  : 0.00[sec]
+2020-10-31 18:55:10 INFO ------------------------------------
+2020-10-31 18:55:10 INFO 
+2020-10-31 18:55:10 INFO --[file_util：load_csv]--------------------
+2020-10-31 18:55:10 INFO PATH  : /Users/hidebase/NRI/03_自己研鑽/03_データ分析コンテスト/nri_analysis_contest/200_input/uriage.csv
+2020-10-31 18:55:10 INFO SHAPE : (1692, 3)
+2020-10-31 18:55:10 INFO TIME  : 0.01[sec]
+2020-10-31 18:55:10 INFO ------------------------------------
+2020-10-31 18:55:10 INFO 
+2020-10-31 18:55:10 INFO --[file_util：load_csv]--------------------
+2020-10-31 18:55:10 INFO PATH  : /Users/hidebase/NRI/03_自己研鑽/03_データ分析コンテスト/nri_analysis_contest/200_input/food_uriage.csv
+2020-10-31 18:55:10 INFO SHAPE : (1692, 3)
+2020-10-31 18:55:10 INFO TIME  : 0.00[sec]
+2020-10-31 18:55:10 INFO ------------------------------------
+2020-10-31 18:55:10 INFO 
+2020-10-31 18:55:10 INFO ========================================
+2020-10-31 18:55:10 INFO 正常終了 ENDED CODE=0
+2020-10-31 18:55:10 INFO 
+2020-10-31 18:55:10 INFO ------------------------------------------
+2020-10-31 18:55:10 INFO JOB: 
+2020-10-31 18:55:10 INFO STEP: 
+2020-10-31 18:55:10 INFO PGM: 301_feature.py
+2020-10-31 18:55:10 INFO PID: 11791
+2020-10-31 18:55:10 INFO PARENT_PID: jobid_undefined
+2020-10-31 18:55:10 INFO HOSTNAME: hide-2.local
+2020-10-31 18:55:10 INFO ELAPSED: 0.17[sec]
+2020-10-31 18:55:10 INFO ============   PYTHON   LOG   ============
+2020-10-31 18:56:39 INFO ============   PYTHON   LOG   ============
+2020-10-31 18:56:39 INFO JOB: 
+2020-10-31 18:56:39 INFO STEP: 
+2020-10-31 18:56:39 INFO PGM: 301_feature.py
+2020-10-31 18:56:39 INFO PID: 11807
+2020-10-31 18:56:39 INFO PARENT_PID: jobid_undefined
+2020-10-31 18:56:39 INFO HOSTNAME: hide-2.local
+2020-10-31 18:56:39 INFO ------------------------------------------
+2020-10-31 18:56:39 INFO 
+2020-10-31 18:56:39 INFO ********************************************
+2020-10-31 18:56:39 INFO [get_csv]
+2020-10-31 18:56:39 INFO ********************************************
+2020-10-31 18:56:39 INFO --[file_util：load_csv]--------------------
+2020-10-31 18:56:39 INFO PATH  : /Users/hidebase/NRI/03_自己研鑽/03_データ分析コンテスト/nri_analysis_contest/200_input/train.csv
+2020-10-31 18:56:39 INFO SHAPE : (7989, 4)
+2020-10-31 18:56:39 INFO TIME  : 0.02[sec]
+2020-10-31 18:56:39 INFO ------------------------------------
+2020-10-31 18:56:39 INFO 
+2020-10-31 18:56:39 INFO --[file_util：load_csv]--------------------
+2020-10-31 18:56:39 INFO PATH  : /Users/hidebase/NRI/03_自己研鑽/03_データ分析コンテスト/nri_analysis_contest/200_input/kyaku.csv
+2020-10-31 18:56:39 INFO SHAPE : (1692, 3)
+2020-10-31 18:56:39 INFO TIME  : 0.00[sec]
+2020-10-31 18:56:39 INFO ------------------------------------
+2020-10-31 18:56:39 INFO 
+2020-10-31 18:56:39 INFO --[file_util：load_csv]--------------------
+2020-10-31 18:56:39 INFO PATH  : /Users/hidebase/NRI/03_自己研鑽/03_データ分析コンテスト/nri_analysis_contest/200_input/uriage.csv
+2020-10-31 18:56:39 INFO SHAPE : (1692, 3)
+2020-10-31 18:56:39 INFO TIME  : 0.00[sec]
+2020-10-31 18:56:39 INFO ------------------------------------
+2020-10-31 18:56:39 INFO 
+2020-10-31 18:56:39 INFO --[file_util：load_csv]--------------------
+2020-10-31 18:56:39 INFO PATH  : /Users/hidebase/NRI/03_自己研鑽/03_データ分析コンテスト/nri_analysis_contest/200_input/food_uriage.csv
+2020-10-31 18:56:39 INFO SHAPE : (1692, 3)
+2020-10-31 18:56:39 INFO TIME  : 0.00[sec]
+2020-10-31 18:56:39 INFO ------------------------------------
+2020-10-31 18:56:39 INFO 
+2020-10-31 18:56:39 ERROR ========================================
+2020-10-31 18:56:39 ERROR Traceback (most recent call last):
+  File "/Users/hidebase/NRI/03_自己研鑽/03_データ分析コンテスト/nri_analysis_contest/300_src/301_feature.py", line 37, in main
+    post_train(df_xa, 'train_xa.csv')
+  File "/Users/hidebase/NRI/03_自己研鑽/03_データ分析コンテスト/nri_analysis_contest/300_src/301_feature.py", line 160, in post_train
+    df.to_csv(path)
+  File "/Users/hidebase/Python/env/venv/myenv/lib/python3.7/site-packages/pandas/core/generic.py", line 3204, in to_csv
+    formatter.save()
+  File "/Users/hidebase/Python/env/venv/myenv/lib/python3.7/site-packages/pandas/io/formats/csvs.py", line 188, in save
+    compression=dict(self.compression_args, method=self.compression),
+  File "/Users/hidebase/Python/env/venv/myenv/lib/python3.7/site-packages/pandas/io/common.py", line 455, in get_handle
+    f = open(path_or_buf, mode, encoding=encoding, newline="")
+FileNotFoundError: [Errno 2] No such file or directory: '../500_output/train_xa.csv'
+Traceback (most recent call last):
+  File "/Users/hidebase/NRI/03_自己研鑽/03_データ分析コンテスト/nri_analysis_contest/300_src/301_feature.py", line 37, in main
+    post_train(df_xa, 'train_xa.csv')
+  File "/Users/hidebase/NRI/03_自己研鑽/03_データ分析コンテスト/nri_analysis_contest/300_src/301_feature.py", line 160, in post_train
+    df.to_csv(path)
+  File "/Users/hidebase/Python/env/venv/myenv/lib/python3.7/site-packages/pandas/core/generic.py", line 3204, in to_csv
+    formatter.save()
+  File "/Users/hidebase/Python/env/venv/myenv/lib/python3.7/site-packages/pandas/io/formats/csvs.py", line 188, in save
+    compression=dict(self.compression_args, method=self.compression),
+  File "/Users/hidebase/Python/env/venv/myenv/lib/python3.7/site-packages/pandas/io/common.py", line 455, in get_handle
+    f = open(path_or_buf, mode, encoding=encoding, newline="")
+FileNotFoundError: [Errno 2] No such file or directory: '../500_output/train_xa.csv'
+2020-10-31 18:56:39 ERROR 異常終了 ENDED CODE=1
+2020-10-31 18:56:39 INFO 
+2020-10-31 18:56:39 INFO ------------------------------------------
+2020-10-31 18:56:39 INFO JOB: 
+2020-10-31 18:56:39 INFO STEP: 
+2020-10-31 18:56:39 INFO PGM: 301_feature.py
+2020-10-31 18:56:39 INFO PID: 11807
+2020-10-31 18:56:39 INFO PARENT_PID: jobid_undefined
+2020-10-31 18:56:39 INFO HOSTNAME: hide-2.local
+2020-10-31 18:56:39 INFO ELAPSED: 0.15[sec]
+2020-10-31 18:56:39 INFO ============   PYTHON   LOG   ============
+2020-10-31 18:57:09 INFO ============   PYTHON   LOG   ============
+2020-10-31 18:57:09 INFO JOB: 
+2020-10-31 18:57:09 INFO STEP: 
+2020-10-31 18:57:09 INFO PGM: 301_feature.py
+2020-10-31 18:57:09 INFO PID: 11820
+2020-10-31 18:57:09 INFO PARENT_PID: jobid_undefined
+2020-10-31 18:57:09 INFO HOSTNAME: hide-2.local
+2020-10-31 18:57:09 INFO ------------------------------------------
+2020-10-31 18:57:09 INFO 
+2020-10-31 18:57:09 INFO ********************************************
+2020-10-31 18:57:09 INFO [get_csv]
+2020-10-31 18:57:09 INFO ********************************************
+2020-10-31 18:57:09 INFO --[file_util：load_csv]--------------------
+2020-10-31 18:57:09 INFO PATH  : /Users/hidebase/NRI/03_自己研鑽/03_データ分析コンテスト/nri_analysis_contest/200_input/train.csv
+2020-10-31 18:57:09 INFO SHAPE : (7989, 4)
+2020-10-31 18:57:09 INFO TIME  : 0.01[sec]
+2020-10-31 18:57:09 INFO ------------------------------------
+2020-10-31 18:57:09 INFO 
+2020-10-31 18:57:09 INFO --[file_util：load_csv]--------------------
+2020-10-31 18:57:09 INFO PATH  : /Users/hidebase/NRI/03_自己研鑽/03_データ分析コンテスト/nri_analysis_contest/200_input/kyaku.csv
+2020-10-31 18:57:09 INFO SHAPE : (1692, 3)
+2020-10-31 18:57:09 INFO TIME  : 0.00[sec]
+2020-10-31 18:57:09 INFO ------------------------------------
+2020-10-31 18:57:09 INFO 
+2020-10-31 18:57:09 INFO --[file_util：load_csv]--------------------
+2020-10-31 18:57:09 INFO PATH  : /Users/hidebase/NRI/03_自己研鑽/03_データ分析コンテスト/nri_analysis_contest/200_input/uriage.csv
+2020-10-31 18:57:09 INFO SHAPE : (1692, 3)
+2020-10-31 18:57:09 INFO TIME  : 0.01[sec]
+2020-10-31 18:57:09 INFO ------------------------------------
+2020-10-31 18:57:09 INFO 
+2020-10-31 18:57:09 INFO --[file_util：load_csv]--------------------
+2020-10-31 18:57:09 INFO PATH  : /Users/hidebase/NRI/03_自己研鑽/03_データ分析コンテスト/nri_analysis_contest/200_input/food_uriage.csv
+2020-10-31 18:57:09 INFO SHAPE : (1692, 3)
+2020-10-31 18:57:09 INFO TIME  : 0.00[sec]
+2020-10-31 18:57:09 INFO ------------------------------------
+2020-10-31 18:57:09 INFO 
+2020-10-31 18:57:09 ERROR ========================================
+2020-10-31 18:57:09 ERROR Traceback (most recent call last):
+  File "/Users/hidebase/NRI/03_自己研鑽/03_データ分析コンテスト/nri_analysis_contest/300_src/301_feature.py", line 37, in main
+    post_train(df_xa, 'train_xa.csv')
+  File "/Users/hidebase/NRI/03_自己研鑽/03_データ分析コンテスト/nri_analysis_contest/300_src/301_feature.py", line 159, in post_train
+    df.to_csv(path)
+  File "/Users/hidebase/Python/env/venv/myenv/lib/python3.7/site-packages/pandas/core/generic.py", line 3204, in to_csv
+    formatter.save()
+  File "/Users/hidebase/Python/env/venv/myenv/lib/python3.7/site-packages/pandas/io/formats/csvs.py", line 188, in save
+    compression=dict(self.compression_args, method=self.compression),
+  File "/Users/hidebase/Python/env/venv/myenv/lib/python3.7/site-packages/pandas/io/common.py", line 455, in get_handle
+    f = open(path_or_buf, mode, encoding=encoding, newline="")
+FileNotFoundError: [Errno 2] No such file or directory: '../500_output/train_xa.csv'
+Traceback (most recent call last):
+  File "/Users/hidebase/NRI/03_自己研鑽/03_データ分析コンテスト/nri_analysis_contest/300_src/301_feature.py", line 37, in main
+    post_train(df_xa, 'train_xa.csv')
+  File "/Users/hidebase/NRI/03_自己研鑽/03_データ分析コンテスト/nri_analysis_contest/300_src/301_feature.py", line 159, in post_train
+    df.to_csv(path)
+  File "/Users/hidebase/Python/env/venv/myenv/lib/python3.7/site-packages/pandas/core/generic.py", line 3204, in to_csv
+    formatter.save()
+  File "/Users/hidebase/Python/env/venv/myenv/lib/python3.7/site-packages/pandas/io/formats/csvs.py", line 188, in save
+    compression=dict(self.compression_args, method=self.compression),
+  File "/Users/hidebase/Python/env/venv/myenv/lib/python3.7/site-packages/pandas/io/common.py", line 455, in get_handle
+    f = open(path_or_buf, mode, encoding=encoding, newline="")
+FileNotFoundError: [Errno 2] No such file or directory: '../500_output/train_xa.csv'
+2020-10-31 18:57:09 ERROR 異常終了 ENDED CODE=1
+2020-10-31 18:57:09 INFO 
+2020-10-31 18:57:09 INFO ------------------------------------------
+2020-10-31 18:57:09 INFO JOB: 
+2020-10-31 18:57:09 INFO STEP: 
+2020-10-31 18:57:09 INFO PGM: 301_feature.py
+2020-10-31 18:57:09 INFO PID: 11820
+2020-10-31 18:57:09 INFO PARENT_PID: jobid_undefined
+2020-10-31 18:57:09 INFO HOSTNAME: hide-2.local
+2020-10-31 18:57:09 INFO ELAPSED: 0.15[sec]
+2020-10-31 18:57:09 INFO ============   PYTHON   LOG   ============
+2020-10-31 18:57:36 INFO ============   PYTHON   LOG   ============
+2020-10-31 18:57:36 INFO JOB: 
+2020-10-31 18:57:36 INFO STEP: 
+2020-10-31 18:57:36 INFO PGM: 301_feature.py
+2020-10-31 18:57:36 INFO PID: 11830
+2020-10-31 18:57:36 INFO PARENT_PID: jobid_undefined
+2020-10-31 18:57:36 INFO HOSTNAME: hide-2.local
+2020-10-31 18:57:36 INFO ------------------------------------------
+2020-10-31 18:57:36 INFO 
+2020-10-31 18:57:36 INFO ********************************************
+2020-10-31 18:57:36 INFO [get_csv]
+2020-10-31 18:57:36 INFO ********************************************
+2020-10-31 18:57:36 INFO --[file_util：load_csv]--------------------
+2020-10-31 18:57:36 INFO PATH  : /Users/hidebase/NRI/03_自己研鑽/03_データ分析コンテスト/nri_analysis_contest/200_input/train.csv
+2020-10-31 18:57:36 INFO SHAPE : (7989, 4)
+2020-10-31 18:57:36 INFO TIME  : 0.01[sec]
+2020-10-31 18:57:36 INFO ------------------------------------
+2020-10-31 18:57:36 INFO 
+2020-10-31 18:57:36 INFO --[file_util：load_csv]--------------------
+2020-10-31 18:57:36 INFO PATH  : /Users/hidebase/NRI/03_自己研鑽/03_データ分析コンテスト/nri_analysis_contest/200_input/kyaku.csv
+2020-10-31 18:57:36 INFO SHAPE : (1692, 3)
+2020-10-31 18:57:36 INFO TIME  : 0.00[sec]
+2020-10-31 18:57:36 INFO ------------------------------------
+2020-10-31 18:57:36 INFO 
+2020-10-31 18:57:36 INFO --[file_util：load_csv]--------------------
+2020-10-31 18:57:36 INFO PATH  : /Users/hidebase/NRI/03_自己研鑽/03_データ分析コンテスト/nri_analysis_contest/200_input/uriage.csv
+2020-10-31 18:57:36 INFO SHAPE : (1692, 3)
+2020-10-31 18:57:36 INFO TIME  : 0.00[sec]
+2020-10-31 18:57:36 INFO ------------------------------------
+2020-10-31 18:57:36 INFO 
+2020-10-31 18:57:37 INFO --[file_util：load_csv]--------------------
+2020-10-31 18:57:37 INFO PATH  : /Users/hidebase/NRI/03_自己研鑽/03_データ分析コンテスト/nri_analysis_contest/200_input/food_uriage.csv
+2020-10-31 18:57:37 INFO SHAPE : (1692, 3)
+2020-10-31 18:57:37 INFO TIME  : 0.00[sec]
+2020-10-31 18:57:37 INFO ------------------------------------
+2020-10-31 18:57:37 INFO 
+2020-10-31 18:57:37 ERROR ========================================
+2020-10-31 18:57:37 ERROR Traceback (most recent call last):
+  File "/Users/hidebase/NRI/03_自己研鑽/03_データ分析コンテスト/nri_analysis_contest/300_src/301_feature.py", line 38, in main
+    post_train(df_xa, 'train_xa.csv')
+  File "/Users/hidebase/NRI/03_自己研鑽/03_データ分析コンテスト/nri_analysis_contest/300_src/301_feature.py", line 160, in post_train
+    df.to_csv(path)
+  File "/Users/hidebase/Python/env/venv/myenv/lib/python3.7/site-packages/pandas/core/generic.py", line 3204, in to_csv
+    formatter.save()
+  File "/Users/hidebase/Python/env/venv/myenv/lib/python3.7/site-packages/pandas/io/formats/csvs.py", line 188, in save
+    compression=dict(self.compression_args, method=self.compression),
+  File "/Users/hidebase/Python/env/venv/myenv/lib/python3.7/site-packages/pandas/io/common.py", line 455, in get_handle
+    f = open(path_or_buf, mode, encoding=encoding, newline="")
+FileNotFoundError: [Errno 2] No such file or directory: '../500_output/train_xa.csv'
+Traceback (most recent call last):
+  File "/Users/hidebase/NRI/03_自己研鑽/03_データ分析コンテスト/nri_analysis_contest/300_src/301_feature.py", line 38, in main
+    post_train(df_xa, 'train_xa.csv')
+  File "/Users/hidebase/NRI/03_自己研鑽/03_データ分析コンテスト/nri_analysis_contest/300_src/301_feature.py", line 160, in post_train
+    df.to_csv(path)
+  File "/Users/hidebase/Python/env/venv/myenv/lib/python3.7/site-packages/pandas/core/generic.py", line 3204, in to_csv
+    formatter.save()
+  File "/Users/hidebase/Python/env/venv/myenv/lib/python3.7/site-packages/pandas/io/formats/csvs.py", line 188, in save
+    compression=dict(self.compression_args, method=self.compression),
+  File "/Users/hidebase/Python/env/venv/myenv/lib/python3.7/site-packages/pandas/io/common.py", line 455, in get_handle
+    f = open(path_or_buf, mode, encoding=encoding, newline="")
+FileNotFoundError: [Errno 2] No such file or directory: '../500_output/train_xa.csv'
+2020-10-31 18:57:37 ERROR 異常終了 ENDED CODE=1
+2020-10-31 18:57:37 INFO 
+2020-10-31 18:57:37 INFO ------------------------------------------
+2020-10-31 18:57:37 INFO JOB: 
+2020-10-31 18:57:37 INFO STEP: 
+2020-10-31 18:57:37 INFO PGM: 301_feature.py
+2020-10-31 18:57:37 INFO PID: 11830
+2020-10-31 18:57:37 INFO PARENT_PID: jobid_undefined
+2020-10-31 18:57:37 INFO HOSTNAME: hide-2.local
+2020-10-31 18:57:37 INFO ELAPSED: 0.15[sec]
+2020-10-31 18:57:37 INFO ============   PYTHON   LOG   ============
+2020-10-31 18:58:23 INFO ============   PYTHON   LOG   ============
+2020-10-31 18:58:23 INFO JOB: 
+2020-10-31 18:58:23 INFO STEP: 
+2020-10-31 18:58:23 INFO PGM: 301_feature.py
+2020-10-31 18:58:23 INFO PID: 11856
+2020-10-31 18:58:23 INFO PARENT_PID: jobid_undefined
+2020-10-31 18:58:23 INFO HOSTNAME: hide-2.local
+2020-10-31 18:58:23 INFO ------------------------------------------
+2020-10-31 18:58:23 INFO 
+2020-10-31 18:58:23 INFO ********************************************
+2020-10-31 18:58:23 INFO [get_csv]
+2020-10-31 18:58:23 INFO ********************************************
+2020-10-31 18:58:23 INFO --[file_util：load_csv]--------------------
+2020-10-31 18:58:23 INFO PATH  : /Users/hidebase/NRI/03_自己研鑽/03_データ分析コンテスト/nri_analysis_contest/200_input/train.csv
+2020-10-31 18:58:23 INFO SHAPE : (7989, 4)
+2020-10-31 18:58:23 INFO TIME  : 0.01[sec]
+2020-10-31 18:58:23 INFO ------------------------------------
+2020-10-31 18:58:23 INFO 
+2020-10-31 18:58:23 INFO --[file_util：load_csv]--------------------
+2020-10-31 18:58:23 INFO PATH  : /Users/hidebase/NRI/03_自己研鑽/03_データ分析コンテスト/nri_analysis_contest/200_input/kyaku.csv
+2020-10-31 18:58:23 INFO SHAPE : (1692, 3)
+2020-10-31 18:58:23 INFO TIME  : 0.01[sec]
+2020-10-31 18:58:23 INFO ------------------------------------
+2020-10-31 18:58:23 INFO 
+2020-10-31 18:58:23 INFO --[file_util：load_csv]--------------------
+2020-10-31 18:58:23 INFO PATH  : /Users/hidebase/NRI/03_自己研鑽/03_データ分析コンテスト/nri_analysis_contest/200_input/uriage.csv
+2020-10-31 18:58:23 INFO SHAPE : (1692, 3)
+2020-10-31 18:58:23 INFO TIME  : 0.01[sec]
+2020-10-31 18:58:23 INFO ------------------------------------
+2020-10-31 18:58:23 INFO 
+2020-10-31 18:58:23 INFO --[file_util：load_csv]--------------------
+2020-10-31 18:58:23 INFO PATH  : /Users/hidebase/NRI/03_自己研鑽/03_データ分析コンテスト/nri_analysis_contest/200_input/food_uriage.csv
+2020-10-31 18:58:23 INFO SHAPE : (1692, 3)
+2020-10-31 18:58:23 INFO TIME  : 0.01[sec]
+2020-10-31 18:58:23 INFO ------------------------------------
+2020-10-31 18:58:23 INFO 
+2020-10-31 18:58:23 ERROR ========================================
+2020-10-31 18:58:23 ERROR Traceback (most recent call last):
+  File "/Users/hidebase/NRI/03_自己研鑽/03_データ分析コンテスト/nri_analysis_contest/300_src/301_feature.py", line 37, in main
+    post_train(df_xa, 'train_xa.csv')
+  File "/Users/hidebase/NRI/03_自己研鑽/03_データ分析コンテスト/nri_analysis_contest/300_src/301_feature.py", line 160, in post_train
+    df.to_csv(path)
+  File "/Users/hidebase/Python/env/venv/myenv/lib/python3.7/site-packages/pandas/core/generic.py", line 3204, in to_csv
+    formatter.save()
+  File "/Users/hidebase/Python/env/venv/myenv/lib/python3.7/site-packages/pandas/io/formats/csvs.py", line 188, in save
+    compression=dict(self.compression_args, method=self.compression),
+  File "/Users/hidebase/Python/env/venv/myenv/lib/python3.7/site-packages/pandas/io/common.py", line 455, in get_handle
+    f = open(path_or_buf, mode, encoding=encoding, newline="")
+FileNotFoundError: [Errno 2] No such file or directory: '../500_output/train_xa.csv'
+Traceback (most recent call last):
+  File "/Users/hidebase/NRI/03_自己研鑽/03_データ分析コンテスト/nri_analysis_contest/300_src/301_feature.py", line 37, in main
+    post_train(df_xa, 'train_xa.csv')
+  File "/Users/hidebase/NRI/03_自己研鑽/03_データ分析コンテスト/nri_analysis_contest/300_src/301_feature.py", line 160, in post_train
+    df.to_csv(path)
+  File "/Users/hidebase/Python/env/venv/myenv/lib/python3.7/site-packages/pandas/core/generic.py", line 3204, in to_csv
+    formatter.save()
+  File "/Users/hidebase/Python/env/venv/myenv/lib/python3.7/site-packages/pandas/io/formats/csvs.py", line 188, in save
+    compression=dict(self.compression_args, method=self.compression),
+  File "/Users/hidebase/Python/env/venv/myenv/lib/python3.7/site-packages/pandas/io/common.py", line 455, in get_handle
+    f = open(path_or_buf, mode, encoding=encoding, newline="")
+FileNotFoundError: [Errno 2] No such file or directory: '../500_output/train_xa.csv'
+2020-10-31 18:58:23 ERROR 異常終了 ENDED CODE=1
+2020-10-31 18:58:23 INFO 
+2020-10-31 18:58:23 INFO ------------------------------------------
+2020-10-31 18:58:23 INFO JOB: 
+2020-10-31 18:58:23 INFO STEP: 
+2020-10-31 18:58:23 INFO PGM: 301_feature.py
+2020-10-31 18:58:23 INFO PID: 11856
+2020-10-31 18:58:23 INFO PARENT_PID: jobid_undefined
+2020-10-31 18:58:23 INFO HOSTNAME: hide-2.local
+2020-10-31 18:58:23 INFO ELAPSED: 0.14[sec]
+2020-10-31 18:58:23 INFO ============   PYTHON   LOG   ============
+2020-10-31 19:04:02 INFO ============   PYTHON   LOG   ============
+2020-10-31 19:04:02 INFO JOB: 
+2020-10-31 19:04:02 INFO STEP: 
+2020-10-31 19:04:02 INFO PGM: 301_feature.py
+2020-10-31 19:04:02 INFO PID: 11902
+2020-10-31 19:04:02 INFO PARENT_PID: jobid_undefined
+2020-10-31 19:04:02 INFO HOSTNAME: hide-2.local
+2020-10-31 19:04:02 INFO ------------------------------------------
+2020-10-31 19:04:02 INFO 
+2020-10-31 19:04:02 INFO ********************************************
+2020-10-31 19:04:02 INFO [get_csv]
+2020-10-31 19:04:02 INFO ********************************************
+2020-10-31 19:04:02 INFO --[file_util：load_csv]--------------------
+2020-10-31 19:04:02 INFO PATH  : /Users/hidebase/NRI/03_自己研鑽/03_データ分析コンテスト/nri_analysis_contest/200_input/train.csv
+2020-10-31 19:04:02 INFO SHAPE : (7989, 4)
+2020-10-31 19:04:02 INFO TIME  : 0.02[sec]
+2020-10-31 19:04:02 INFO ------------------------------------
+2020-10-31 19:04:02 INFO 
+2020-10-31 19:04:02 INFO --[file_util：load_csv]--------------------
+2020-10-31 19:04:02 INFO PATH  : /Users/hidebase/NRI/03_自己研鑽/03_データ分析コンテスト/nri_analysis_contest/200_input/kyaku.csv
+2020-10-31 19:04:02 INFO SHAPE : (1692, 3)
+2020-10-31 19:04:02 INFO TIME  : 0.00[sec]
+2020-10-31 19:04:02 INFO ------------------------------------
+2020-10-31 19:04:02 INFO 
+2020-10-31 19:04:02 INFO --[file_util：load_csv]--------------------
+2020-10-31 19:04:02 INFO PATH  : /Users/hidebase/NRI/03_自己研鑽/03_データ分析コンテスト/nri_analysis_contest/200_input/uriage.csv
+2020-10-31 19:04:02 INFO SHAPE : (1692, 3)
+2020-10-31 19:04:02 INFO TIME  : 0.00[sec]
+2020-10-31 19:04:02 INFO ------------------------------------
+2020-10-31 19:04:02 INFO 
+2020-10-31 19:04:02 INFO --[file_util：load_csv]--------------------
+2020-10-31 19:04:02 INFO PATH  : /Users/hidebase/NRI/03_自己研鑽/03_データ分析コンテスト/nri_analysis_contest/200_input/food_uriage.csv
+2020-10-31 19:04:02 INFO SHAPE : (1692, 3)
+2020-10-31 19:04:02 INFO TIME  : 0.00[sec]
+2020-10-31 19:04:02 INFO ------------------------------------
+2020-10-31 19:04:02 INFO 
+2020-10-31 19:04:02 INFO ========================================
+2020-10-31 19:04:02 INFO 正常終了 ENDED CODE=0
+2020-10-31 19:04:02 INFO 
+2020-10-31 19:04:02 INFO ------------------------------------------
+2020-10-31 19:04:02 INFO JOB: 
+2020-10-31 19:04:02 INFO STEP: 
+2020-10-31 19:04:02 INFO PGM: 301_feature.py
+2020-10-31 19:04:02 INFO PID: 11902
+2020-10-31 19:04:02 INFO PARENT_PID: jobid_undefined
+2020-10-31 19:04:02 INFO HOSTNAME: hide-2.local
+2020-10-31 19:04:02 INFO ELAPSED: 0.15[sec]
+2020-10-31 19:04:02 INFO ============   PYTHON   LOG   ============
+2020-10-31 19:07:14 INFO ============   PYTHON   LOG   ============
+2020-10-31 19:07:14 INFO JOB: 
+2020-10-31 19:07:14 INFO STEP: 
+2020-10-31 19:07:14 INFO PGM: 301_feature.py
+2020-10-31 19:07:14 INFO PID: 11937
+2020-10-31 19:07:14 INFO PARENT_PID: jobid_undefined
+2020-10-31 19:07:14 INFO HOSTNAME: hide-2.local
+2020-10-31 19:07:14 INFO ------------------------------------------
+2020-10-31 19:07:14 INFO 
+2020-10-31 19:07:14 INFO ********************************************
+2020-10-31 19:07:14 INFO [get_csv]
+2020-10-31 19:07:14 INFO ********************************************
+2020-10-31 19:07:14 INFO --[file_util：load_csv]--------------------
+2020-10-31 19:07:14 INFO PATH  : /Users/hidebase/NRI/03_自己研鑽/03_データ分析コンテスト/nri_analysis_contest/200_input/train.csv
+2020-10-31 19:07:14 INFO SHAPE : (7989, 4)
+2020-10-31 19:07:14 INFO TIME  : 0.01[sec]
+2020-10-31 19:07:14 INFO ------------------------------------
+2020-10-31 19:07:14 INFO 
+2020-10-31 19:07:14 INFO --[file_util：load_csv]--------------------
+2020-10-31 19:07:14 INFO PATH  : /Users/hidebase/NRI/03_自己研鑽/03_データ分析コンテスト/nri_analysis_contest/200_input/kyaku.csv
+2020-10-31 19:07:14 INFO SHAPE : (1692, 3)
+2020-10-31 19:07:14 INFO TIME  : 0.00[sec]
+2020-10-31 19:07:14 INFO ------------------------------------
+2020-10-31 19:07:14 INFO 
+2020-10-31 19:07:14 INFO --[file_util：load_csv]--------------------
+2020-10-31 19:07:14 INFO PATH  : /Users/hidebase/NRI/03_自己研鑽/03_データ分析コンテスト/nri_analysis_contest/200_input/uriage.csv
+2020-10-31 19:07:14 INFO SHAPE : (1692, 3)
+2020-10-31 19:07:14 INFO TIME  : 0.01[sec]
+2020-10-31 19:07:14 INFO ------------------------------------
+2020-10-31 19:07:14 INFO 
+2020-10-31 19:07:14 INFO --[file_util：load_csv]--------------------
+2020-10-31 19:07:14 INFO PATH  : /Users/hidebase/NRI/03_自己研鑽/03_データ分析コンテスト/nri_analysis_contest/200_input/food_uriage.csv
+2020-10-31 19:07:14 INFO SHAPE : (1692, 3)
+2020-10-31 19:07:14 INFO TIME  : 0.01[sec]
+2020-10-31 19:07:14 INFO ------------------------------------
+2020-10-31 19:07:14 INFO 
+2020-10-31 19:07:14 INFO ========================================
+2020-10-31 19:07:14 INFO 正常終了 ENDED CODE=0
+2020-10-31 19:07:14 INFO 
+2020-10-31 19:07:14 INFO ------------------------------------------
+2020-10-31 19:07:14 INFO JOB: 
+2020-10-31 19:07:14 INFO STEP: 
+2020-10-31 19:07:14 INFO PGM: 301_feature.py
+2020-10-31 19:07:14 INFO PID: 11937
+2020-10-31 19:07:14 INFO PARENT_PID: jobid_undefined
+2020-10-31 19:07:14 INFO HOSTNAME: hide-2.local
+2020-10-31 19:07:14 INFO ELAPSED: 0.14[sec]
+2020-10-31 19:07:14 INFO ============   PYTHON   LOG   ============
+2020-10-31 19:15:35 INFO ============   PYTHON   LOG   ============
+2020-10-31 19:15:35 INFO JOB: 
+2020-10-31 19:15:35 INFO STEP: 
+2020-10-31 19:15:35 INFO PGM: 301_feature.py
+2020-10-31 19:15:35 INFO PID: 12068
+2020-10-31 19:15:35 INFO PARENT_PID: jobid_undefined
+2020-10-31 19:15:35 INFO HOSTNAME: hide-2.local
+2020-10-31 19:15:35 INFO ------------------------------------------
+2020-10-31 19:15:35 INFO 
+2020-10-31 19:15:35 INFO ********************************************
+2020-10-31 19:15:35 INFO [get_csv]
+2020-10-31 19:15:35 INFO ********************************************
+2020-10-31 19:15:35 INFO --[file_util：load_csv]--------------------
+2020-10-31 19:15:35 INFO PATH  : /Users/hidebase/NRI/03_自己研鑽/03_データ分析コンテスト/nri_analysis_contest/200_input/train.csv
+2020-10-31 19:15:35 INFO SHAPE : (7989, 4)
+2020-10-31 19:15:35 INFO TIME  : 0.02[sec]
+2020-10-31 19:15:35 INFO ------------------------------------
+2020-10-31 19:15:35 INFO 
+2020-10-31 19:15:35 INFO --[file_util：load_csv]--------------------
+2020-10-31 19:15:35 INFO PATH  : /Users/hidebase/NRI/03_自己研鑽/03_データ分析コンテスト/nri_analysis_contest/200_input/kyaku.csv
+2020-10-31 19:15:35 INFO SHAPE : (1692, 3)
+2020-10-31 19:15:35 INFO TIME  : 0.00[sec]
+2020-10-31 19:15:35 INFO ------------------------------------
+2020-10-31 19:15:35 INFO 
+2020-10-31 19:15:35 INFO --[file_util：load_csv]--------------------
+2020-10-31 19:15:35 INFO PATH  : /Users/hidebase/NRI/03_自己研鑽/03_データ分析コンテスト/nri_analysis_contest/200_input/uriage.csv
+2020-10-31 19:15:35 INFO SHAPE : (1692, 3)
+2020-10-31 19:15:35 INFO TIME  : 0.01[sec]
+2020-10-31 19:15:35 INFO ------------------------------------
+2020-10-31 19:15:35 INFO 
+2020-10-31 19:15:35 INFO --[file_util：load_csv]--------------------
+2020-10-31 19:15:35 INFO PATH  : /Users/hidebase/NRI/03_自己研鑽/03_データ分析コンテスト/nri_analysis_contest/200_input/food_uriage.csv
+2020-10-31 19:15:35 INFO SHAPE : (1692, 3)
+2020-10-31 19:15:35 INFO TIME  : 0.01[sec]
+2020-10-31 19:15:35 INFO ------------------------------------
+2020-10-31 19:15:35 INFO 
+2020-10-31 19:15:35 INFO ========================================
+2020-10-31 19:15:35 INFO 正常終了 ENDED CODE=0
+2020-10-31 19:15:35 INFO 
+2020-10-31 19:15:35 INFO ------------------------------------------
+2020-10-31 19:15:35 INFO JOB: 
+2020-10-31 19:15:35 INFO STEP: 
+2020-10-31 19:15:35 INFO PGM: 301_feature.py
+2020-10-31 19:15:35 INFO PID: 12068
+2020-10-31 19:15:35 INFO PARENT_PID: jobid_undefined
+2020-10-31 19:15:35 INFO HOSTNAME: hide-2.local
+2020-10-31 19:15:35 INFO ELAPSED: 0.14[sec]
+2020-10-31 19:15:35 INFO ============   PYTHON   LOG   ============
+2020-10-31 19:16:45 INFO ============   PYTHON   LOG   ============
+2020-10-31 19:16:45 INFO JOB: 
+2020-10-31 19:16:45 INFO STEP: 
+2020-10-31 19:16:45 INFO PGM: 301_feature.py
+2020-10-31 19:16:45 INFO PID: 12092
+2020-10-31 19:16:45 INFO PARENT_PID: jobid_undefined
+2020-10-31 19:16:45 INFO HOSTNAME: hide-2.local
+2020-10-31 19:16:45 INFO ------------------------------------------
+2020-10-31 19:16:45 INFO 
+2020-10-31 19:16:45 INFO ********************************************
+2020-10-31 19:16:45 INFO [get_csv]
+2020-10-31 19:16:45 INFO ********************************************
+2020-10-31 19:16:45 INFO --[file_util：load_csv]--------------------
+2020-10-31 19:16:45 INFO PATH  : /Users/hidebase/NRI/03_自己研鑽/03_データ分析コンテスト/nri_analysis_contest/200_input/train.csv
+2020-10-31 19:16:45 INFO SHAPE : (7989, 4)
+2020-10-31 19:16:45 INFO TIME  : 0.01[sec]
+2020-10-31 19:16:45 INFO ------------------------------------
+2020-10-31 19:16:45 INFO 
+2020-10-31 19:16:45 INFO --[file_util：load_csv]--------------------
+2020-10-31 19:16:45 INFO PATH  : /Users/hidebase/NRI/03_自己研鑽/03_データ分析コンテスト/nri_analysis_contest/200_input/kyaku.csv
+2020-10-31 19:16:45 INFO SHAPE : (1692, 3)
+2020-10-31 19:16:45 INFO TIME  : 0.01[sec]
+2020-10-31 19:16:45 INFO ------------------------------------
+2020-10-31 19:16:45 INFO 
+2020-10-31 19:16:45 INFO --[file_util：load_csv]--------------------
+2020-10-31 19:16:45 INFO PATH  : /Users/hidebase/NRI/03_自己研鑽/03_データ分析コンテスト/nri_analysis_contest/200_input/uriage.csv
+2020-10-31 19:16:45 INFO SHAPE : (1692, 3)
+2020-10-31 19:16:45 INFO TIME  : 0.00[sec]
+2020-10-31 19:16:45 INFO ------------------------------------
+2020-10-31 19:16:45 INFO 
+2020-10-31 19:16:45 INFO --[file_util：load_csv]--------------------
+2020-10-31 19:16:45 INFO PATH  : /Users/hidebase/NRI/03_自己研鑽/03_データ分析コンテスト/nri_analysis_contest/200_input/food_uriage.csv
+2020-10-31 19:16:45 INFO SHAPE : (1692, 3)
+2020-10-31 19:16:45 INFO TIME  : 0.00[sec]
+2020-10-31 19:16:45 INFO ------------------------------------
+2020-10-31 19:16:45 INFO 
+2020-10-31 19:16:45 INFO ========================================
+2020-10-31 19:16:45 INFO 正常終了 ENDED CODE=0
+2020-10-31 19:16:45 INFO 
+2020-10-31 19:16:45 INFO ------------------------------------------
+2020-10-31 19:16:45 INFO JOB: 
+2020-10-31 19:16:45 INFO STEP: 
+2020-10-31 19:16:45 INFO PGM: 301_feature.py
+2020-10-31 19:16:45 INFO PID: 12092
+2020-10-31 19:16:45 INFO PARENT_PID: jobid_undefined
+2020-10-31 19:16:45 INFO HOSTNAME: hide-2.local
+2020-10-31 19:16:45 INFO ELAPSED: 0.15[sec]
+2020-10-31 19:16:45 INFO ============   PYTHON   LOG   ============
+2020-10-31 19:17:31 INFO ============   PYTHON   LOG   ============
+2020-10-31 19:17:31 INFO JOB: 
+2020-10-31 19:17:31 INFO STEP: 
+2020-10-31 19:17:31 INFO PGM: 301_feature.py
+2020-10-31 19:17:31 INFO PID: 12105
+2020-10-31 19:17:31 INFO PARENT_PID: jobid_undefined
+2020-10-31 19:17:31 INFO HOSTNAME: hide-2.local
+2020-10-31 19:17:31 INFO ------------------------------------------
+2020-10-31 19:17:31 INFO 
+2020-10-31 19:17:31 INFO ********************************************
+2020-10-31 19:17:31 INFO [get_csv]
+2020-10-31 19:17:31 INFO ********************************************
+2020-10-31 19:17:31 INFO --[file_util：load_csv]--------------------
+2020-10-31 19:17:31 INFO PATH  : /Users/hidebase/NRI/03_自己研鑽/03_データ分析コンテスト/nri_analysis_contest/200_input/train.csv
+2020-10-31 19:17:31 INFO SHAPE : (7989, 4)
+2020-10-31 19:17:31 INFO TIME  : 0.01[sec]
+2020-10-31 19:17:31 INFO ------------------------------------
+2020-10-31 19:17:31 INFO 
+2020-10-31 19:17:31 INFO --[file_util：load_csv]--------------------
+2020-10-31 19:17:31 INFO PATH  : /Users/hidebase/NRI/03_自己研鑽/03_データ分析コンテスト/nri_analysis_contest/200_input/kyaku.csv
+2020-10-31 19:17:31 INFO SHAPE : (1692, 3)
+2020-10-31 19:17:31 INFO TIME  : 0.00[sec]
+2020-10-31 19:17:31 INFO ------------------------------------
+2020-10-31 19:17:31 INFO 
+2020-10-31 19:17:31 INFO --[file_util：load_csv]--------------------
+2020-10-31 19:17:31 INFO PATH  : /Users/hidebase/NRI/03_自己研鑽/03_データ分析コンテスト/nri_analysis_contest/200_input/uriage.csv
+2020-10-31 19:17:31 INFO SHAPE : (1692, 3)
+2020-10-31 19:17:31 INFO TIME  : 0.00[sec]
+2020-10-31 19:17:31 INFO ------------------------------------
+2020-10-31 19:17:31 INFO 
+2020-10-31 19:17:31 INFO --[file_util：load_csv]--------------------
+2020-10-31 19:17:31 INFO PATH  : /Users/hidebase/NRI/03_自己研鑽/03_データ分析コンテスト/nri_analysis_contest/200_input/food_uriage.csv
+2020-10-31 19:17:31 INFO SHAPE : (1692, 3)
+2020-10-31 19:17:31 INFO TIME  : 0.00[sec]
+2020-10-31 19:17:31 INFO ------------------------------------
+2020-10-31 19:17:31 INFO 
+2020-10-31 19:17:31 INFO ========================================
+2020-10-31 19:17:31 INFO 正常終了 ENDED CODE=0
+2020-10-31 19:17:31 INFO 
+2020-10-31 19:17:31 INFO ------------------------------------------
+2020-10-31 19:17:31 INFO JOB: 
+2020-10-31 19:17:31 INFO STEP: 
+2020-10-31 19:17:31 INFO PGM: 301_feature.py
+2020-10-31 19:17:31 INFO PID: 12105
+2020-10-31 19:17:31 INFO PARENT_PID: jobid_undefined
+2020-10-31 19:17:31 INFO HOSTNAME: hide-2.local
+2020-10-31 19:17:31 INFO ELAPSED: 0.15[sec]
+2020-10-31 19:17:31 INFO ============   PYTHON   LOG   ============
+2020-10-31 19:17:52 INFO ============   PYTHON   LOG   ============
+2020-10-31 19:17:52 INFO JOB: 
+2020-10-31 19:17:52 INFO STEP: 
+2020-10-31 19:17:52 INFO PGM: 301_feature.py
+2020-10-31 19:17:52 INFO PID: 12118
+2020-10-31 19:17:52 INFO PARENT_PID: jobid_undefined
+2020-10-31 19:17:52 INFO HOSTNAME: hide-2.local
+2020-10-31 19:17:52 INFO ------------------------------------------
+2020-10-31 19:17:52 INFO 
+2020-10-31 19:17:52 INFO ********************************************
+2020-10-31 19:17:52 INFO [get_csv]
+2020-10-31 19:17:52 INFO ********************************************
+2020-10-31 19:17:52 INFO --[file_util：load_csv]--------------------
+2020-10-31 19:17:52 INFO PATH  : /Users/hidebase/NRI/03_自己研鑽/03_データ分析コンテスト/nri_analysis_contest/200_input/train.csv
+2020-10-31 19:17:52 INFO SHAPE : (7989, 4)
+2020-10-31 19:17:52 INFO TIME  : 0.02[sec]
+2020-10-31 19:17:52 INFO ------------------------------------
+2020-10-31 19:17:52 INFO 
+2020-10-31 19:17:52 INFO --[file_util：load_csv]--------------------
+2020-10-31 19:17:52 INFO PATH  : /Users/hidebase/NRI/03_自己研鑽/03_データ分析コンテスト/nri_analysis_contest/200_input/kyaku.csv
+2020-10-31 19:17:52 INFO SHAPE : (1692, 3)
+2020-10-31 19:17:52 INFO TIME  : 0.00[sec]
+2020-10-31 19:17:52 INFO ------------------------------------
+2020-10-31 19:17:52 INFO 
+2020-10-31 19:17:52 INFO --[file_util：load_csv]--------------------
+2020-10-31 19:17:52 INFO PATH  : /Users/hidebase/NRI/03_自己研鑽/03_データ分析コンテスト/nri_analysis_contest/200_input/uriage.csv
+2020-10-31 19:17:52 INFO SHAPE : (1692, 3)
+2020-10-31 19:17:52 INFO TIME  : 0.01[sec]
+2020-10-31 19:17:52 INFO ------------------------------------
+2020-10-31 19:17:52 INFO 
+2020-10-31 19:17:52 INFO --[file_util：load_csv]--------------------
+2020-10-31 19:17:52 INFO PATH  : /Users/hidebase/NRI/03_自己研鑽/03_データ分析コンテスト/nri_analysis_contest/200_input/food_uriage.csv
+2020-10-31 19:17:52 INFO SHAPE : (1692, 3)
+2020-10-31 19:17:52 INFO TIME  : 0.00[sec]
+2020-10-31 19:17:52 INFO ------------------------------------
+2020-10-31 19:17:52 INFO 
+2020-10-31 19:17:52 INFO ========================================
+2020-10-31 19:17:52 INFO 正常終了 ENDED CODE=0
+2020-10-31 19:17:52 INFO 
+2020-10-31 19:17:52 INFO ------------------------------------------
+2020-10-31 19:17:52 INFO JOB: 
+2020-10-31 19:17:52 INFO STEP: 
+2020-10-31 19:17:52 INFO PGM: 301_feature.py
+2020-10-31 19:17:52 INFO PID: 12118
+2020-10-31 19:17:52 INFO PARENT_PID: jobid_undefined
+2020-10-31 19:17:52 INFO HOSTNAME: hide-2.local
+2020-10-31 19:17:52 INFO ELAPSED: 0.15[sec]
+2020-10-31 19:17:52 INFO ============   PYTHON   LOG   ============
+2020-10-31 19:18:27 INFO ============   PYTHON   LOG   ============
+2020-10-31 19:18:27 INFO JOB: 
+2020-10-31 19:18:27 INFO STEP: 
+2020-10-31 19:18:27 INFO PGM: 301_feature.py
+2020-10-31 19:18:27 INFO PID: 12128
+2020-10-31 19:18:27 INFO PARENT_PID: jobid_undefined
+2020-10-31 19:18:27 INFO HOSTNAME: hide-2.local
+2020-10-31 19:18:27 INFO ------------------------------------------
+2020-10-31 19:18:27 INFO 
+2020-10-31 19:18:27 INFO ********************************************
+2020-10-31 19:18:27 INFO [get_csv]
+2020-10-31 19:18:27 INFO ********************************************
+2020-10-31 19:18:27 INFO --[file_util：load_csv]--------------------
+2020-10-31 19:18:27 INFO PATH  : /Users/hidebase/NRI/03_自己研鑽/03_データ分析コンテスト/nri_analysis_contest/200_input/train.csv
+2020-10-31 19:18:27 INFO SHAPE : (7989, 4)
+2020-10-31 19:18:27 INFO TIME  : 0.01[sec]
+2020-10-31 19:18:27 INFO ------------------------------------
+2020-10-31 19:18:27 INFO 
+2020-10-31 19:18:27 INFO --[file_util：load_csv]--------------------
+2020-10-31 19:18:27 INFO PATH  : /Users/hidebase/NRI/03_自己研鑽/03_データ分析コンテスト/nri_analysis_contest/200_input/kyaku.csv
+2020-10-31 19:18:27 INFO SHAPE : (1692, 3)
+2020-10-31 19:18:27 INFO TIME  : 0.00[sec]
+2020-10-31 19:18:27 INFO ------------------------------------
+2020-10-31 19:18:27 INFO 
+2020-10-31 19:18:27 INFO --[file_util：load_csv]--------------------
+2020-10-31 19:18:27 INFO PATH  : /Users/hidebase/NRI/03_自己研鑽/03_データ分析コンテスト/nri_analysis_contest/200_input/uriage.csv
+2020-10-31 19:18:27 INFO SHAPE : (1692, 3)
+2020-10-31 19:18:27 INFO TIME  : 0.01[sec]
+2020-10-31 19:18:27 INFO ------------------------------------
+2020-10-31 19:18:27 INFO 
+2020-10-31 19:18:27 INFO --[file_util：load_csv]--------------------
+2020-10-31 19:18:27 INFO PATH  : /Users/hidebase/NRI/03_自己研鑽/03_データ分析コンテスト/nri_analysis_contest/200_input/food_uriage.csv
+2020-10-31 19:18:27 INFO SHAPE : (1692, 3)
+2020-10-31 19:18:27 INFO TIME  : 0.00[sec]
+2020-10-31 19:18:27 INFO ------------------------------------
+2020-10-31 19:18:27 INFO 
+2020-10-31 19:18:27 INFO ========================================
+2020-10-31 19:18:27 INFO 正常終了 ENDED CODE=0
+2020-10-31 19:18:27 INFO 
+2020-10-31 19:18:27 INFO ------------------------------------------
+2020-10-31 19:18:27 INFO JOB: 
+2020-10-31 19:18:27 INFO STEP: 
+2020-10-31 19:18:27 INFO PGM: 301_feature.py
+2020-10-31 19:18:27 INFO PID: 12128
+2020-10-31 19:18:27 INFO PARENT_PID: jobid_undefined
+2020-10-31 19:18:27 INFO HOSTNAME: hide-2.local
+2020-10-31 19:18:27 INFO ELAPSED: 0.16[sec]
+2020-10-31 19:18:27 INFO ============   PYTHON   LOG   ============
+2020-10-31 19:19:27 INFO ============   PYTHON   LOG   ============
+2020-10-31 19:19:27 INFO JOB: 
+2020-10-31 19:19:27 INFO STEP: 
+2020-10-31 19:19:27 INFO PGM: 301_feature.py
+2020-10-31 19:19:27 INFO PID: 12143
+2020-10-31 19:19:27 INFO PARENT_PID: jobid_undefined
+2020-10-31 19:19:27 INFO HOSTNAME: hide-2.local
+2020-10-31 19:19:27 INFO ------------------------------------------
+2020-10-31 19:19:27 INFO 
+2020-10-31 19:19:27 INFO ********************************************
+2020-10-31 19:19:27 INFO [get_csv]
+2020-10-31 19:19:27 INFO ********************************************
+2020-10-31 19:19:27 INFO --[file_util：load_csv]--------------------
+2020-10-31 19:19:27 INFO PATH  : /Users/hidebase/NRI/03_自己研鑽/03_データ分析コンテスト/nri_analysis_contest/200_input/train.csv
+2020-10-31 19:19:27 INFO SHAPE : (7989, 4)
+2020-10-31 19:19:27 INFO TIME  : 0.01[sec]
+2020-10-31 19:19:27 INFO ------------------------------------
+2020-10-31 19:19:27 INFO 
+2020-10-31 19:19:27 INFO --[file_util：load_csv]--------------------
+2020-10-31 19:19:27 INFO PATH  : /Users/hidebase/NRI/03_自己研鑽/03_データ分析コンテスト/nri_analysis_contest/200_input/kyaku.csv
+2020-10-31 19:19:27 INFO SHAPE : (1692, 3)
+2020-10-31 19:19:27 INFO TIME  : 0.00[sec]
+2020-10-31 19:19:27 INFO ------------------------------------
+2020-10-31 19:19:27 INFO 
+2020-10-31 19:19:27 INFO --[file_util：load_csv]--------------------
+2020-10-31 19:19:27 INFO PATH  : /Users/hidebase/NRI/03_自己研鑽/03_データ分析コンテスト/nri_analysis_contest/200_input/uriage.csv
+2020-10-31 19:19:27 INFO SHAPE : (1692, 3)
+2020-10-31 19:19:27 INFO TIME  : 0.00[sec]
+2020-10-31 19:19:27 INFO ------------------------------------
+2020-10-31 19:19:27 INFO 
+2020-10-31 19:19:27 INFO --[file_util：load_csv]--------------------
+2020-10-31 19:19:27 INFO PATH  : /Users/hidebase/NRI/03_自己研鑽/03_データ分析コンテスト/nri_analysis_contest/200_input/food_uriage.csv
+2020-10-31 19:19:27 INFO SHAPE : (1692, 3)
+2020-10-31 19:19:27 INFO TIME  : 0.00[sec]
+2020-10-31 19:19:27 INFO ------------------------------------
+2020-10-31 19:19:27 INFO 
+2020-10-31 19:19:27 INFO ========================================
+2020-10-31 19:19:27 INFO 正常終了 ENDED CODE=0
+2020-10-31 19:19:27 INFO 
+2020-10-31 19:19:27 INFO ------------------------------------------
+2020-10-31 19:19:27 INFO JOB: 
+2020-10-31 19:19:27 INFO STEP: 
+2020-10-31 19:19:27 INFO PGM: 301_feature.py
+2020-10-31 19:19:27 INFO PID: 12143
+2020-10-31 19:19:27 INFO PARENT_PID: jobid_undefined
+2020-10-31 19:19:27 INFO HOSTNAME: hide-2.local
+2020-10-31 19:19:27 INFO ELAPSED: 0.17[sec]
+2020-10-31 19:19:27 INFO ============   PYTHON   LOG   ============
+2020-10-31 19:23:21 INFO ============   PYTHON   LOG   ============
+2020-10-31 19:23:21 INFO JOB: 
+2020-10-31 19:23:21 INFO STEP: 
+2020-10-31 19:23:21 INFO PGM: 301_feature.py
+2020-10-31 19:23:21 INFO PID: 12220
+2020-10-31 19:23:21 INFO PARENT_PID: jobid_undefined
+2020-10-31 19:23:21 INFO HOSTNAME: hide-2.local
+2020-10-31 19:23:21 INFO ------------------------------------------
+2020-10-31 19:23:21 INFO 
+2020-10-31 19:23:21 INFO ********************************************
+2020-10-31 19:23:21 INFO [get_csv]
+2020-10-31 19:23:21 INFO ********************************************
+2020-10-31 19:23:21 INFO --[file_util：load_csv]--------------------
+2020-10-31 19:23:21 INFO PATH  : /Users/hidebase/NRI/03_自己研鑽/03_データ分析コンテスト/nri_analysis_contest/200_input/train.csv
+2020-10-31 19:23:21 INFO SHAPE : (7989, 4)
+2020-10-31 19:23:21 INFO TIME  : 0.01[sec]
+2020-10-31 19:23:21 INFO ------------------------------------
+2020-10-31 19:23:21 INFO 
+2020-10-31 19:23:21 INFO --[file_util：load_csv]--------------------
+2020-10-31 19:23:21 INFO PATH  : /Users/hidebase/NRI/03_自己研鑽/03_データ分析コンテスト/nri_analysis_contest/200_input/kyaku.csv
+2020-10-31 19:23:21 INFO SHAPE : (1692, 3)
+2020-10-31 19:23:21 INFO TIME  : 0.00[sec]
+2020-10-31 19:23:21 INFO ------------------------------------
+2020-10-31 19:23:21 INFO 
+2020-10-31 19:23:21 INFO --[file_util：load_csv]--------------------
+2020-10-31 19:23:21 INFO PATH  : /Users/hidebase/NRI/03_自己研鑽/03_データ分析コンテスト/nri_analysis_contest/200_input/uriage.csv
+2020-10-31 19:23:21 INFO SHAPE : (1692, 3)
+2020-10-31 19:23:21 INFO TIME  : 0.01[sec]
+2020-10-31 19:23:21 INFO ------------------------------------
+2020-10-31 19:23:21 INFO 
+2020-10-31 19:23:21 INFO --[file_util：load_csv]--------------------
+2020-10-31 19:23:21 INFO PATH  : /Users/hidebase/NRI/03_自己研鑽/03_データ分析コンテスト/nri_analysis_contest/200_input/food_uriage.csv
+2020-10-31 19:23:21 INFO SHAPE : (1692, 3)
+2020-10-31 19:23:21 INFO TIME  : 0.00[sec]
+2020-10-31 19:23:21 INFO ------------------------------------
+2020-10-31 19:23:21 INFO 
+2020-10-31 19:23:21 INFO ========================================
+2020-10-31 19:23:21 INFO 正常終了 ENDED CODE=0
+2020-10-31 19:23:21 INFO 
+2020-10-31 19:23:21 INFO ------------------------------------------
+2020-10-31 19:23:21 INFO JOB: 
+2020-10-31 19:23:21 INFO STEP: 
+2020-10-31 19:23:21 INFO PGM: 301_feature.py
+2020-10-31 19:23:21 INFO PID: 12220
+2020-10-31 19:23:21 INFO PARENT_PID: jobid_undefined
+2020-10-31 19:23:21 INFO HOSTNAME: hide-2.local
+2020-10-31 19:23:21 INFO ELAPSED: 0.15[sec]
+2020-10-31 19:23:21 INFO ============   PYTHON   LOG   ============
+2020-10-31 19:26:11 INFO ============   PYTHON   LOG   ============
+2020-10-31 19:26:11 INFO JOB: 
+2020-10-31 19:26:11 INFO STEP: 
+2020-10-31 19:26:11 INFO PGM: 301_feature.py
+2020-10-31 19:26:11 INFO PID: 12253
+2020-10-31 19:26:11 INFO PARENT_PID: jobid_undefined
+2020-10-31 19:26:11 INFO HOSTNAME: hide-2.local
+2020-10-31 19:26:11 INFO ------------------------------------------
+2020-10-31 19:26:11 INFO 
+2020-10-31 19:26:11 INFO ********************************************
+2020-10-31 19:26:11 INFO [get_csv]
+2020-10-31 19:26:11 INFO ********************************************
+2020-10-31 19:26:11 INFO --[file_util：load_csv]--------------------
+2020-10-31 19:26:11 INFO PATH  : /Users/hidebase/NRI/03_自己研鑽/03_データ分析コンテスト/nri_analysis_contest/200_input/train.csv
+2020-10-31 19:26:11 INFO SHAPE : (7989, 4)
+2020-10-31 19:26:11 INFO TIME  : 0.02[sec]
+2020-10-31 19:26:11 INFO ------------------------------------
+2020-10-31 19:26:11 INFO 
+2020-10-31 19:26:11 INFO --[file_util：load_csv]--------------------
+2020-10-31 19:26:11 INFO PATH  : /Users/hidebase/NRI/03_自己研鑽/03_データ分析コンテスト/nri_analysis_contest/200_input/kyaku.csv
+2020-10-31 19:26:11 INFO SHAPE : (1692, 3)
+2020-10-31 19:26:11 INFO TIME  : 0.00[sec]
+2020-10-31 19:26:11 INFO ------------------------------------
+2020-10-31 19:26:11 INFO 
+2020-10-31 19:26:11 INFO --[file_util：load_csv]--------------------
+2020-10-31 19:26:11 INFO PATH  : /Users/hidebase/NRI/03_自己研鑽/03_データ分析コンテスト/nri_analysis_contest/200_input/uriage.csv
+2020-10-31 19:26:11 INFO SHAPE : (1692, 3)
+2020-10-31 19:26:11 INFO TIME  : 0.01[sec]
+2020-10-31 19:26:11 INFO ------------------------------------
+2020-10-31 19:26:11 INFO 
+2020-10-31 19:26:11 INFO --[file_util：load_csv]--------------------
+2020-10-31 19:26:11 INFO PATH  : /Users/hidebase/NRI/03_自己研鑽/03_データ分析コンテスト/nri_analysis_contest/200_input/food_uriage.csv
+2020-10-31 19:26:11 INFO SHAPE : (1692, 3)
+2020-10-31 19:26:11 INFO TIME  : 0.00[sec]
+2020-10-31 19:26:11 INFO ------------------------------------
+2020-10-31 19:26:11 INFO 
+2020-10-31 19:26:11 INFO ========================================
+2020-10-31 19:26:11 INFO 正常終了 ENDED CODE=0
+2020-10-31 19:26:11 INFO 
+2020-10-31 19:26:11 INFO ------------------------------------------
+2020-10-31 19:26:11 INFO JOB: 
+2020-10-31 19:26:11 INFO STEP: 
+2020-10-31 19:26:11 INFO PGM: 301_feature.py
+2020-10-31 19:26:11 INFO PID: 12253
+2020-10-31 19:26:11 INFO PARENT_PID: jobid_undefined
+2020-10-31 19:26:11 INFO HOSTNAME: hide-2.local
+2020-10-31 19:26:11 INFO ELAPSED: 0.15[sec]
+2020-10-31 19:26:11 INFO ============   PYTHON   LOG   ============
+2020-10-31 19:29:27 INFO ============   PYTHON   LOG   ============
+2020-10-31 19:29:27 INFO JOB: 
+2020-10-31 19:29:27 INFO STEP: 
+2020-10-31 19:29:27 INFO PGM: 301_feature.py
+2020-10-31 19:29:27 INFO PID: 12305
+2020-10-31 19:29:27 INFO PARENT_PID: jobid_undefined
+2020-10-31 19:29:27 INFO HOSTNAME: hide-2.local
+2020-10-31 19:29:27 INFO ------------------------------------------
+2020-10-31 19:29:27 INFO 
+2020-10-31 19:29:27 INFO ********************************************
+2020-10-31 19:29:27 INFO [get_csv]
+2020-10-31 19:29:27 INFO ********************************************
+2020-10-31 19:29:27 INFO --[file_util：load_csv]--------------------
+2020-10-31 19:29:27 INFO PATH  : /Users/hidebase/NRI/03_自己研鑽/03_データ分析コンテスト/nri_analysis_contest/200_input/train.csv
+2020-10-31 19:29:27 INFO SHAPE : (7989, 4)
+2020-10-31 19:29:27 INFO TIME  : 0.02[sec]
+2020-10-31 19:29:27 INFO ------------------------------------
+2020-10-31 19:29:27 INFO 
+2020-10-31 19:29:27 INFO --[file_util：load_csv]--------------------
+2020-10-31 19:29:27 INFO PATH  : /Users/hidebase/NRI/03_自己研鑽/03_データ分析コンテスト/nri_analysis_contest/200_input/kyaku.csv
+2020-10-31 19:29:27 INFO SHAPE : (1692, 3)
+2020-10-31 19:29:27 INFO TIME  : 0.00[sec]
+2020-10-31 19:29:27 INFO ------------------------------------
+2020-10-31 19:29:27 INFO 
+2020-10-31 19:29:27 INFO --[file_util：load_csv]--------------------
+2020-10-31 19:29:27 INFO PATH  : /Users/hidebase/NRI/03_自己研鑽/03_データ分析コンテスト/nri_analysis_contest/200_input/uriage.csv
+2020-10-31 19:29:27 INFO SHAPE : (1692, 3)
+2020-10-31 19:29:27 INFO TIME  : 0.01[sec]
+2020-10-31 19:29:27 INFO ------------------------------------
+2020-10-31 19:29:27 INFO 
+2020-10-31 19:29:27 INFO --[file_util：load_csv]--------------------
+2020-10-31 19:29:27 INFO PATH  : /Users/hidebase/NRI/03_自己研鑽/03_データ分析コンテスト/nri_analysis_contest/200_input/food_uriage.csv
+2020-10-31 19:29:27 INFO SHAPE : (1692, 3)
+2020-10-31 19:29:27 INFO TIME  : 0.00[sec]
+2020-10-31 19:29:27 INFO ------------------------------------
+2020-10-31 19:29:27 INFO 
+2020-10-31 19:29:27 INFO ========================================
+2020-10-31 19:29:27 INFO 正常終了 ENDED CODE=0
+2020-10-31 19:29:27 INFO 
+2020-10-31 19:29:27 INFO ------------------------------------------
+2020-10-31 19:29:27 INFO JOB: 
+2020-10-31 19:29:27 INFO STEP: 
+2020-10-31 19:29:27 INFO PGM: 301_feature.py
+2020-10-31 19:29:27 INFO PID: 12305
+2020-10-31 19:29:27 INFO PARENT_PID: jobid_undefined
+2020-10-31 19:29:27 INFO HOSTNAME: hide-2.local
+2020-10-31 19:29:27 INFO ELAPSED: 0.19[sec]
+2020-10-31 19:29:27 INFO ============   PYTHON   LOG   ============
+2020-11-01 14:01:23 INFO ============   PYTHON   LOG   ============
+2020-11-01 14:01:23 INFO JOB: 
+2020-11-01 14:01:23 INFO STEP: 
+2020-11-01 14:01:23 INFO PGM: 301_feature.py
+2020-11-01 14:01:23 INFO PID: 12538
+2020-11-01 14:01:23 INFO PARENT_PID: jobid_undefined
+2020-11-01 14:01:23 INFO HOSTNAME: hide-2.local
+2020-11-01 14:01:23 INFO ------------------------------------------
+2020-11-01 14:01:23 INFO 
+2020-11-01 14:01:23 INFO ********************************************
+2020-11-01 14:01:23 INFO [get_csv]
+2020-11-01 14:01:23 INFO ********************************************
+2020-11-01 14:01:23 INFO --[file_util：load_csv]--------------------
+2020-11-01 14:01:23 INFO PATH  : /Users/hidebase/NRI/03_自己研鑽/03_データ分析コンテスト/nri_analysis_contest/200_input/train.csv
+2020-11-01 14:01:23 INFO SHAPE : (7989, 4)
+2020-11-01 14:01:23 INFO TIME  : 0.02[sec]
+2020-11-01 14:01:23 INFO ------------------------------------
+2020-11-01 14:01:23 INFO 
+2020-11-01 14:01:23 INFO --[file_util：load_csv]--------------------
+2020-11-01 14:01:23 INFO PATH  : /Users/hidebase/NRI/03_自己研鑽/03_データ分析コンテスト/nri_analysis_contest/200_input/kyaku.csv
+2020-11-01 14:01:23 INFO SHAPE : (1692, 3)
+2020-11-01 14:01:23 INFO TIME  : 0.00[sec]
+2020-11-01 14:01:23 INFO ------------------------------------
+2020-11-01 14:01:23 INFO 
+2020-11-01 14:01:23 INFO --[file_util：load_csv]--------------------
+2020-11-01 14:01:23 INFO PATH  : /Users/hidebase/NRI/03_自己研鑽/03_データ分析コンテスト/nri_analysis_contest/200_input/uriage.csv
+2020-11-01 14:01:23 INFO SHAPE : (1692, 3)
+2020-11-01 14:01:23 INFO TIME  : 0.01[sec]
+2020-11-01 14:01:23 INFO ------------------------------------
+2020-11-01 14:01:23 INFO 
+2020-11-01 14:01:23 INFO --[file_util：load_csv]--------------------
+2020-11-01 14:01:23 INFO PATH  : /Users/hidebase/NRI/03_自己研鑽/03_データ分析コンテスト/nri_analysis_contest/200_input/food_uriage.csv
+2020-11-01 14:01:23 INFO SHAPE : (1692, 3)
+2020-11-01 14:01:23 INFO TIME  : 0.00[sec]
+2020-11-01 14:01:23 INFO ------------------------------------
+2020-11-01 14:01:23 INFO 
+2020-11-01 14:01:23 INFO ========================================
+2020-11-01 14:01:23 INFO 正常終了 ENDED CODE=0
+2020-11-01 14:01:23 INFO 
+2020-11-01 14:01:23 INFO ------------------------------------------
+2020-11-01 14:01:23 INFO JOB: 
+2020-11-01 14:01:23 INFO STEP: 
+2020-11-01 14:01:23 INFO PGM: 301_feature.py
+2020-11-01 14:01:23 INFO PID: 12538
+2020-11-01 14:01:23 INFO PARENT_PID: jobid_undefined
+2020-11-01 14:01:23 INFO HOSTNAME: hide-2.local
+2020-11-01 14:01:23 INFO ELAPSED: 0.25[sec]
+2020-11-01 14:01:23 INFO ============   PYTHON   LOG   ============
+2020-11-01 14:02:09 INFO ============   PYTHON   LOG   ============
+2020-11-01 14:02:09 INFO JOB: 
+2020-11-01 14:02:09 INFO STEP: 
+2020-11-01 14:02:09 INFO PGM: 301_feature.py
+2020-11-01 14:02:09 INFO PID: 12557
+2020-11-01 14:02:09 INFO PARENT_PID: jobid_undefined
+2020-11-01 14:02:09 INFO HOSTNAME: hide-2.local
+2020-11-01 14:02:09 INFO ------------------------------------------
+2020-11-01 14:02:09 INFO 
+2020-11-01 14:02:09 INFO ********************************************
+2020-11-01 14:02:09 INFO [get_csv]
+2020-11-01 14:02:09 INFO ********************************************
+2020-11-01 14:02:09 INFO --[file_util：load_csv]--------------------
+2020-11-01 14:02:09 INFO PATH  : /Users/hidebase/NRI/03_自己研鑽/03_データ分析コンテスト/nri_analysis_contest/200_input/train.csv
+2020-11-01 14:02:09 INFO SHAPE : (7989, 4)
+2020-11-01 14:02:09 INFO TIME  : 0.02[sec]
+2020-11-01 14:02:09 INFO ------------------------------------
+2020-11-01 14:02:09 INFO 
+2020-11-01 14:02:09 INFO --[file_util：load_csv]--------------------
+2020-11-01 14:02:09 INFO PATH  : /Users/hidebase/NRI/03_自己研鑽/03_データ分析コンテスト/nri_analysis_contest/200_input/kyaku.csv
+2020-11-01 14:02:09 INFO SHAPE : (1692, 3)
+2020-11-01 14:02:09 INFO TIME  : 0.00[sec]
+2020-11-01 14:02:09 INFO ------------------------------------
+2020-11-01 14:02:09 INFO 
+2020-11-01 14:02:09 INFO --[file_util：load_csv]--------------------
+2020-11-01 14:02:09 INFO PATH  : /Users/hidebase/NRI/03_自己研鑽/03_データ分析コンテスト/nri_analysis_contest/200_input/uriage.csv
+2020-11-01 14:02:09 INFO SHAPE : (1692, 3)
+2020-11-01 14:02:09 INFO TIME  : 0.01[sec]
+2020-11-01 14:02:09 INFO ------------------------------------
+2020-11-01 14:02:09 INFO 
+2020-11-01 14:02:09 INFO --[file_util：load_csv]--------------------
+2020-11-01 14:02:09 INFO PATH  : /Users/hidebase/NRI/03_自己研鑽/03_データ分析コンテスト/nri_analysis_contest/200_input/food_uriage.csv
+2020-11-01 14:02:09 INFO SHAPE : (1692, 3)
+2020-11-01 14:02:09 INFO TIME  : 0.00[sec]
+2020-11-01 14:02:09 INFO ------------------------------------
+2020-11-01 14:02:09 INFO 
+2020-11-01 14:02:09 INFO ========================================
+2020-11-01 14:02:09 INFO 正常終了 ENDED CODE=0
+2020-11-01 14:02:09 INFO 
+2020-11-01 14:02:09 INFO ------------------------------------------
+2020-11-01 14:02:09 INFO JOB: 
+2020-11-01 14:02:09 INFO STEP: 
+2020-11-01 14:02:09 INFO PGM: 301_feature.py
+2020-11-01 14:02:09 INFO PID: 12557
+2020-11-01 14:02:09 INFO PARENT_PID: jobid_undefined
+2020-11-01 14:02:09 INFO HOSTNAME: hide-2.local
+2020-11-01 14:02:09 INFO ELAPSED: 0.25[sec]
+2020-11-01 14:02:09 INFO ============   PYTHON   LOG   ============
+2020-11-01 14:02:48 INFO ============   PYTHON   LOG   ============
+2020-11-01 14:02:48 INFO JOB: 
+2020-11-01 14:02:48 INFO STEP: 
+2020-11-01 14:02:48 INFO PGM: 301_feature.py
+2020-11-01 14:02:48 INFO PID: 12578
+2020-11-01 14:02:48 INFO PARENT_PID: jobid_undefined
+2020-11-01 14:02:48 INFO HOSTNAME: hide-2.local
+2020-11-01 14:02:48 INFO ------------------------------------------
+2020-11-01 14:02:48 INFO 
+2020-11-01 14:02:48 INFO ********************************************
+2020-11-01 14:02:48 INFO [get_csv]
+2020-11-01 14:02:48 INFO ********************************************
+2020-11-01 14:02:48 INFO --[file_util：load_csv]--------------------
+2020-11-01 14:02:48 INFO PATH  : /Users/hidebase/NRI/03_自己研鑽/03_データ分析コンテスト/nri_analysis_contest/200_input/train.csv
+2020-11-01 14:02:48 INFO SHAPE : (7989, 4)
+2020-11-01 14:02:48 INFO TIME  : 0.04[sec]
+2020-11-01 14:02:48 INFO ------------------------------------
+2020-11-01 14:02:48 INFO 
+2020-11-01 14:02:48 INFO --[file_util：load_csv]--------------------
+2020-11-01 14:02:48 INFO PATH  : /Users/hidebase/NRI/03_自己研鑽/03_データ分析コンテスト/nri_analysis_contest/200_input/kyaku.csv
+2020-11-01 14:02:48 INFO SHAPE : (1692, 3)
+2020-11-01 14:02:48 INFO TIME  : 0.00[sec]
+2020-11-01 14:02:48 INFO ------------------------------------
+2020-11-01 14:02:48 INFO 
+2020-11-01 14:02:48 INFO --[file_util：load_csv]--------------------
+2020-11-01 14:02:48 INFO PATH  : /Users/hidebase/NRI/03_自己研鑽/03_データ分析コンテスト/nri_analysis_contest/200_input/uriage.csv
+2020-11-01 14:02:48 INFO SHAPE : (1692, 3)
+2020-11-01 14:02:48 INFO TIME  : 0.00[sec]
+2020-11-01 14:02:48 INFO ------------------------------------
+2020-11-01 14:02:48 INFO 
+2020-11-01 14:02:48 INFO --[file_util：load_csv]--------------------
+2020-11-01 14:02:48 INFO PATH  : /Users/hidebase/NRI/03_自己研鑽/03_データ分析コンテスト/nri_analysis_contest/200_input/food_uriage.csv
+2020-11-01 14:02:48 INFO SHAPE : (1692, 3)
+2020-11-01 14:02:48 INFO TIME  : 0.00[sec]
+2020-11-01 14:02:48 INFO ------------------------------------
+2020-11-01 14:02:48 INFO 
+2020-11-01 14:02:48 INFO ========================================
+2020-11-01 14:02:48 INFO 正常終了 ENDED CODE=0
+2020-11-01 14:02:48 INFO 
+2020-11-01 14:02:48 INFO ------------------------------------------
+2020-11-01 14:02:48 INFO JOB: 
+2020-11-01 14:02:48 INFO STEP: 
+2020-11-01 14:02:48 INFO PGM: 301_feature.py
+2020-11-01 14:02:48 INFO PID: 12578
+2020-11-01 14:02:48 INFO PARENT_PID: jobid_undefined
+2020-11-01 14:02:48 INFO HOSTNAME: hide-2.local
+2020-11-01 14:02:48 INFO ELAPSED: 0.41[sec]
+2020-11-01 14:02:48 INFO ============   PYTHON   LOG   ============
+2020-11-01 17:43:44 INFO ============   PYTHON   LOG   ============
+2020-11-01 17:43:44 INFO JOB: 
+2020-11-01 17:43:44 INFO STEP: 
+2020-11-01 17:43:44 INFO PGM: 301_feature.py
+2020-11-01 17:43:44 INFO PID: 13473
+2020-11-01 17:43:44 INFO PARENT_PID: jobid_undefined
+2020-11-01 17:43:44 INFO HOSTNAME: hide-2.local
+2020-11-01 17:43:44 INFO ------------------------------------------
+2020-11-01 17:43:44 INFO 
+2020-11-01 17:43:44 INFO ********************************************
+2020-11-01 17:43:44 INFO [get_csv]
+2020-11-01 17:43:44 INFO ********************************************
+2020-11-01 17:43:44 INFO --[file_util：load_csv]--------------------
+2020-11-01 17:43:44 INFO PATH  : /Users/hidebase/NRI/03_自己研鑽/03_データ分析コンテスト/nri_analysis_contest/200_input/train.csv
+2020-11-01 17:43:44 INFO SHAPE : (7989, 4)
+2020-11-01 17:43:44 INFO TIME  : 0.02[sec]
+2020-11-01 17:43:44 INFO ------------------------------------
+2020-11-01 17:43:44 INFO 
+2020-11-01 17:43:44 INFO --[file_util：load_csv]--------------------
+2020-11-01 17:43:44 INFO PATH  : /Users/hidebase/NRI/03_自己研鑽/03_データ分析コンテスト/nri_analysis_contest/200_input/kyaku.csv
+2020-11-01 17:43:44 INFO SHAPE : (1692, 3)
+2020-11-01 17:43:44 INFO TIME  : 0.00[sec]
+2020-11-01 17:43:44 INFO ------------------------------------
+2020-11-01 17:43:44 INFO 
+2020-11-01 17:43:44 INFO --[file_util：load_csv]--------------------
+2020-11-01 17:43:44 INFO PATH  : /Users/hidebase/NRI/03_自己研鑽/03_データ分析コンテスト/nri_analysis_contest/200_input/uriage.csv
+2020-11-01 17:43:44 INFO SHAPE : (1692, 3)
+2020-11-01 17:43:44 INFO TIME  : 0.00[sec]
+2020-11-01 17:43:44 INFO ------------------------------------
+2020-11-01 17:43:44 INFO 
+2020-11-01 17:43:44 INFO --[file_util：load_csv]--------------------
+2020-11-01 17:43:44 INFO PATH  : /Users/hidebase/NRI/03_自己研鑽/03_データ分析コンテスト/nri_analysis_contest/200_input/food_uriage.csv
+2020-11-01 17:43:44 INFO SHAPE : (1692, 3)
+2020-11-01 17:43:44 INFO TIME  : 0.01[sec]
+2020-11-01 17:43:44 INFO ------------------------------------
+2020-11-01 17:43:44 INFO 
+2020-11-01 17:43:44 INFO ********************************************
+2020-11-01 17:43:44 INFO [post_train]
+2020-11-01 17:43:44 INFO ********************************************
+2020-11-01 17:43:44 INFO ********************************************
+2020-11-01 17:43:44 INFO [post_train]
+2020-11-01 17:43:44 INFO ********************************************
+2020-11-01 17:43:44 INFO ********************************************
+2020-11-01 17:43:44 INFO [post_train]
+2020-11-01 17:43:44 INFO ********************************************
+2020-11-01 17:43:44 INFO ********************************************
+2020-11-01 17:43:44 INFO [post_train]
+2020-11-01 17:43:44 INFO ********************************************
+2020-11-01 17:43:44 INFO ********************************************
+2020-11-01 17:43:44 INFO [post_train]
+2020-11-01 17:43:44 INFO ********************************************
+2020-11-01 17:43:44 INFO ********************************************
+2020-11-01 17:43:44 INFO [post_train]
+2020-11-01 17:43:44 INFO ********************************************
+2020-11-01 17:43:44 INFO ********************************************
+2020-11-01 17:43:44 INFO [post_train]
+2020-11-01 17:43:44 INFO ********************************************
+2020-11-01 17:43:44 INFO ********************************************
+2020-11-01 17:43:44 INFO [post_train]
+2020-11-01 17:43:44 INFO ********************************************
+2020-11-01 17:43:44 INFO ********************************************
+2020-11-01 17:43:44 INFO [post_train]
+2020-11-01 17:43:44 INFO ********************************************
+2020-11-01 17:43:44 INFO ********************************************
+2020-11-01 17:43:44 INFO [post_train]
+2020-11-01 17:43:44 INFO ********************************************
+2020-11-01 17:43:44 INFO ********************************************
+2020-11-01 17:43:44 INFO [post_train]
+2020-11-01 17:43:44 INFO ********************************************
+2020-11-01 17:43:44 INFO ********************************************
+2020-11-01 17:43:44 INFO [post_train]
+2020-11-01 17:43:44 INFO ********************************************
+2020-11-01 17:43:44 INFO ********************************************
+2020-11-01 17:43:44 INFO [post_train]
+2020-11-01 17:43:44 INFO ********************************************
+2020-11-01 17:43:44 INFO ********************************************
+2020-11-01 17:43:44 INFO [post_train]
+2020-11-01 17:43:44 INFO ********************************************
+2020-11-01 17:43:44 INFO ********************************************
+2020-11-01 17:43:44 INFO [post_train]
+2020-11-01 17:43:44 INFO ********************************************
+2020-11-01 17:43:44 INFO ========================================
+2020-11-01 17:43:44 INFO 正常終了 ENDED CODE=0
+2020-11-01 17:43:44 INFO 
+2020-11-01 17:43:44 INFO ------------------------------------------
+2020-11-01 17:43:44 INFO JOB: 
+2020-11-01 17:43:44 INFO STEP: 
+2020-11-01 17:43:44 INFO PGM: 301_feature.py
+2020-11-01 17:43:44 INFO PID: 13473
+2020-11-01 17:43:44 INFO PARENT_PID: jobid_undefined
+2020-11-01 17:43:44 INFO HOSTNAME: hide-2.local
+2020-11-01 17:43:44 INFO ELAPSED: 0.32[sec]
+2020-11-01 17:43:44 INFO ============   PYTHON   LOG   ============
